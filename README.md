@@ -26,5 +26,5 @@ Deve ser utilizado no código 05 de reconhecimento dos caracteres.
 
 ### Desenvolvimento.
 #### Desenvolvido e elaborado por:
-#### Douglas Tadeu Sabatini - Git dtsabatini - dtsabatini@gmail.com
-#### Jari Fernandes Nogueira Neto - Git jarizon - jari.nogueira@gmail.com
+  - Douglas Tadeu Sabatini - Git dtsabatini - dtsabatini@gmail.com
+  - Jari Fernandes Nogueira Neto - Git jarizon - jari.nogueira@gmail.com
