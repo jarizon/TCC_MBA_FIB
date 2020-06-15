@@ -23,3 +23,8 @@ São 5 códigos no repositório:
 
 Traz os modelos e pesos já treinados, com a acurácia de 100%, validados em 40 imagens (280 caracteres - 120 letras e 160 números).
 Deve ser utilizado no código 05 de reconhecimento dos caracteres.
+
+### Desenvolvimento.
+#### Desenvolvido e elaborado por:
+#### Douglas Tadeu Sabatini - Git dtsabatini - dtsabatini@gmail.com
+#### Jari Fernandes Nogueira Neto - Git jarizon - jari.nogueira@gmail.com
